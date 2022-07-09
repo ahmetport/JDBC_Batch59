@@ -10,7 +10,7 @@ public class Query10 extends DatabaseUtılıty{
         System.out.println("ogrencı ismi: "+ getColumnData(query,"ogrenci_ismi"));
         System.out.println("sinif: "+ getColumnData(query,"sinif"));
         System.out.println("cinsiyet: "+ getColumnData(query,"cinsiyet"));
-        System.out.println("cinsiyet: "+ getColumnData(query,"portakalgit"));
+        System.out.println("cinsiyet: "+ getColumnData(query,"ORANGE"));
 
 
     }
